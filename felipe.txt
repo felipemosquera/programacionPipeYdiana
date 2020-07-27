@@ -1,5 +1,2 @@
-hola este es el repositorio
-feipe mosquera es el mas bello de todos 
-hola diana marcela hola luisFe
-Para aprender a programar  :) 
-Cree una rama :D
+Hola diana marcela voy a crear el proyecto en angular despues miramos en que lenguaje hacemos el back-end 
+ademas de el proyecto voy a crear una carpeta para practicar javaScript puro :D

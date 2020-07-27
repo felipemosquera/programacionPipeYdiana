@@ -1,0 +1,1 @@
+// este es el archivo js ya lo enlace al html en la linea 10 :D
