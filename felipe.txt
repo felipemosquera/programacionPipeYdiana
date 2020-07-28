@@ -1,2 +1,4 @@
 Hola diana marcela voy a crear el proyecto en angular despues miramos en que lenguaje hacemos el back-end 
 ademas de el proyecto voy a crear una carpeta para practicar javaScript puro :D
+
+para subir version siempre tienes que estar en Documentos\programacionDianaYPipe>
